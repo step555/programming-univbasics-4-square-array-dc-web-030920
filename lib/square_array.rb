@@ -33,5 +33,5 @@ def square_array(array)
     newArray = array[counter] ** 2
     counter += 1
   end
-  p newArray
+  newArray
 end
